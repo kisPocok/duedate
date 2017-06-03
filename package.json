@@ -1,0 +1,16 @@
+{
+  "name": "calc-due-date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "duedate.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "complexity-report": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
